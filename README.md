@@ -51,4 +51,4 @@ jobs:
           app-name: 'azspring'
           slot-name: 'production'
           package: '*.war'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fa020458648a40138cd59ba34eacb2df }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b4856c44895b4bffa7f6761438396a90 }}
